@@ -4,7 +4,6 @@
 **About me...**
 ```javascript
 const profile = {
-  pronouns: "she" | "her",
   code: [TypeScript, Javascript, HTML, CSS],
   tools: [React, Redux, Node, Styled-Components, Jest, Ant-Design],
   more: [loves to wander aimlessly around the city drinking tea with cognac from a thermos in the newly opened cool yards and gateways]
