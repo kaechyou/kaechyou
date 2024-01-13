@@ -5,7 +5,7 @@
 ```javascript
 const profile = {
   code: [TypeScript, Javascript, HTML, CSS],
-  tools: [React, Redux, Webpack, Node, Express, Styled-Components, Jest, Ant-Design, Phaser, Vite],
+  tools: [React, Redux, Webpack, Node, Express, Styled-Components, Jest, Playwrite, Ant-Design, Phaser, Vite],
   more: [I love connecting with people so if you want to say hi, feel free to contact me]
 }
 ```
