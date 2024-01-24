@@ -5,14 +5,12 @@
 ```javascript
 const profile = {
   code: [TypeScript, Javascript, HTML, CSS],
-  tools: [React, Redux, Webpack, Node, Express, Styled-Components, Jest, Playwrite, Ant-Design, Phaser, Vite],
-  more: [I love connecting with people so if you want to say hi, feel free to contact me]
+  tools: [React, Redux, Webpack, Node, Express, Styled-Components, Jest, Playwrite, Ant-Design, Phaser, Vite]
 }
 ```
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/ekaterina-gnedenko/)
 [![GitHub](https://img.shields.io/badge/GitHub-lightgrey)](https://github.com/kaechyou/)
-[![Gmail](https://img.shields.io/badge/gmail-orange)](mailto:ekaterina.gnedenko@gmail.com)
 
 📺  I'm one of the contributors to Broadcaster - a videostreaming platform <a href="https://github.com/kaechyou/broadcaster" target="_blank">[git repository]</a>
 
