@@ -3,9 +3,9 @@
 
 **About me...**
 ```javascript
-const profile = {
+const skills = {
   code: [TypeScript, Javascript, HTML, CSS],
-  tools: [React, Redux, Webpack, Node, Express, Styled-Components, Jest, Playwrite, Ant-Design, Phaser, Vite]
+  tools: [React, Redux, Webpack, Jest, Playwrite, Styled-Components, Ant-Design, NodeJS, Express, WebSockets, PostgreSQL]
 }
 ```
 
