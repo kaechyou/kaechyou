@@ -5,7 +5,7 @@
 ```javascript
 const skills = {
   code: [TypeScript, Javascript, HTML, CSS],
-  tools: [React, Redux, Webpack, Jest, Playwrite, Styled-Components, Ant-Design, NodeJS, Express, WebSockets, PostgreSQL]
+  tools: [Next, Tailwind, React, Redux, Webpack, Jest, Playwrite, Styled-Components, Ant-Design, NodeJS, Express, WebSockets, PostgreSQL]
 }
 ```
 
