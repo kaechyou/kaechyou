@@ -9,9 +9,6 @@ const skills = {
 }
 ```
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/ekaterina-gnedenko/)
-[![GitHub](https://img.shields.io/badge/GitHub-lightgrey)](https://github.com/kaechyou/)
-
 📺  I'm one of the contributors to Broadcaster - a videostreaming platform <a href="https://github.com/kaechyou/broadcaster" target="_blank">[git repository]</a>
 
 👾  I'm one of the contributors to Ganymed - a 2D Phaser game <a href="https://github.com/chebok/ganymede-project" target="_blank">[git repository]</a>
